@@ -18,7 +18,7 @@ int find_det(int matrice_initiala[N][N], int n, int det) {
 	}
 	return det;
 }
-
+//ceva
 int cmmdc(int a, int b) {
 	while (a != b) {
 		if (a > b) {

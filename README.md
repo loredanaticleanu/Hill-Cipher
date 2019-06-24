@@ -25,6 +25,17 @@ Encryption/ Decryption
 - you will need to insert the values of the matrix
 - you will need to insert the values for the vector
 
+# OUTPUT
+- original matrix
+- original vector
+- determinant of matrix
+- transpose of matrix
+- adv matrix
+- inverted matrix
+- crypted text
+- decrypted text
+
+
 # Known issues:
 - message is inserted before key
 - 3x3 matrix is not optimal

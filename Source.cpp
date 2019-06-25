@@ -5,7 +5,7 @@
 #define N 7
 //123142124
 using namespace std;
-//kjbjh
+//un nou comment
 int find_det(int matrice_initiala[N][N], int n, int det) {
 
 	if (n == 2) {

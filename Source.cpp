@@ -18,9 +18,11 @@ int find_det(int matrice_initiala[N][N], int n, int det) {
 	}
 	return det;
 }
+//asasfdasfasfasf
 //ceva
 //asta este dor pentru test
 //acum o sa tetez un pull request pentru acest cod si o sa ii dau merge cu master
+
 int cmmdc(int a, int b) {
 	while (a != b) {
 		if (a > b) {
